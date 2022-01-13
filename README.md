@@ -73,3 +73,11 @@ The following code in written in Python and mainly uses Pandas and Numpy librari
 15. Visualizing sales by top 10 cities
 
 ![Screenshot (53)](https://user-images.githubusercontent.com/83877492/149341972-97185a57-079d-46c3-b669-578663c220c4.png)
+
+16. Total sales by top 10 states
+
+![Screenshot (55)](https://user-images.githubusercontent.com/83877492/149342169-c3f47476-3edf-42de-a77d-0daedf3a1e4d.png)
+
+17. Visualizing sales by top 10 states
+
+![Screenshot (57)](https://user-images.githubusercontent.com/83877492/149342303-58aa114e-19d5-4eeb-aee4-f6054b4bc732.png)
