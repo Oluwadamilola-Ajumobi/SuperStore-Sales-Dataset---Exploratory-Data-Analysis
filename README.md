@@ -6,7 +6,7 @@ Exploratory Data Analysis process is not usually a formal or linear process with
 
 ![Gray Simple Cycle Diagram Chart](https://user-images.githubusercontent.com/83877492/149289628-16f24a10-06e0-4066-bb6e-5421eb3c605c.png)
 
-To perform EDA on a dataset, you have to 
+**To perform EDA on a dataset, you have to; **
 1. Understand the variables in the dataset
 2. Clean the data from redundancies
 3. Analyze relationship between variables
@@ -14,7 +14,7 @@ To perform EDA on a dataset, you have to
 
 Charts and plots such as Histograms, Scatterplots, PMFs and CMFs (to visualize distributions), Boxplots, Line graphs are used for plotting in EDA.
 
-The following code in written in Python and mainly uses Pandas and Numpy libraries.
+Here's an Exploratory data analysis process on the superstore dataset. The following code is written in Python and mainly uses Pandas, NumPy, Matplotlib and Seaborn libraries.
 
 1. Importing the necessary libraries, the dataset and visualizing the first 5 rows
 
