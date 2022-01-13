@@ -32,3 +32,9 @@ The following code in written in Python and mainly uses Pandas and Numpy librari
 
 ![Screenshot (32)](https://user-images.githubusercontent.com/83877492/149337903-fc809e5d-7b30-466c-a455-a1026339f395.png)
 
+5. Dropping the unnecessary columns
+ ![Screenshot (33)](https://user-images.githubusercontent.com/83877492/149338198-a1950122-88be-477d-a72b-f4eed649681e.png)
+ 
+ 6. Checking fro null values and dropping them 
+ 7. ![Screenshot (35)](https://user-images.githubusercontent.com/83877492/149338448-2cf09828-f0a4-46ce-8b77-0af764aaedb9.png)
+
