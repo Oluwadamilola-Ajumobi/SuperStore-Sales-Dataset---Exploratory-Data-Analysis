@@ -19,3 +19,7 @@ The following code in written in Python and mainly uses Pandas and Numpy librari
 1. Importing the necessary libraries, the dataset and visualizing the first 5 rows
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/83877492/149336711-6d7932a9-94d8-40aa-8510-bfcb99ed036f.png)
+
+2. Visualizing the last five rows and listing the columns available in the dataset
+
+![Screenshot (29)](https://user-images.githubusercontent.com/83877492/149337079-156de198-4ba8-447f-bb10-e45840b18bdb.png)
