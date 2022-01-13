@@ -49,3 +49,7 @@ The following code in written in Python and mainly uses Pandas and Numpy librari
 9. Visualizing the correlation between variables using a heatmap
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/83877492/149339341-3e6bfa41-90cd-4c5f-878c-0a596e64dd19.png)
+
+10. Calculated the total revenue and sales per month using the sales column 
+
+![Screenshot (42)](https://user-images.githubusercontent.com/83877492/149339640-c1b97974-c631-4278-92a4-936a6d29d20a.png)
