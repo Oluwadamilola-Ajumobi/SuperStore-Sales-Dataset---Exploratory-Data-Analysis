@@ -13,3 +13,9 @@ To perform EDA on a dataset, you have to
 4. Explore and visualize relationships
 
 Charts and plots such as Histograms, Scatterplots, PMFs and CMFs (to visualize distributions), Boxplots, Line graphs are used for plotting in EDA.
+
+The following code in written in Python and mainly uses Pandas and Numpy libraries.
+
+1. Importing the necessary libraries, the dataset and visualizing the first 5 rows
+
+![Screenshot (27)](https://user-images.githubusercontent.com/83877492/149336711-6d7932a9-94d8-40aa-8510-bfcb99ed036f.png)
