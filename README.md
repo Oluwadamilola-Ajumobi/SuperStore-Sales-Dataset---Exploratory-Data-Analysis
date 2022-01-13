@@ -10,4 +10,4 @@ To perform EDA on a dataset, you have to
 1. Understand the variables in the dataset
 2. Clean the data from redundancies
 3. Analyze relationship between variables
-4. 
+4 
