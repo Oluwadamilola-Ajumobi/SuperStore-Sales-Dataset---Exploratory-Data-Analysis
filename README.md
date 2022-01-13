@@ -27,3 +27,8 @@ The following code in written in Python and mainly uses Pandas and Numpy librari
 3. Listing the columns and checking the data info
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/83877492/149337497-8553b10a-69da-442b-8f40-f1e72e12f651.png)
+
+4. Listing the number of distinct observation in the dataset and describing the data
+
+![Screenshot (32)](https://user-images.githubusercontent.com/83877492/149337903-fc809e5d-7b30-466c-a455-a1026339f395.png)
+
