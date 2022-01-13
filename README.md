@@ -81,3 +81,11 @@ The following code in written in Python and mainly uses Pandas and Numpy librari
 17. Visualizing sales by top 10 states
 
 ![Screenshot (57)](https://user-images.githubusercontent.com/83877492/149342303-58aa114e-19d5-4eeb-aee4-f6054b4bc732.png)
+
+18. Total sales grouped by region
+
+![Screenshot (59)](https://user-images.githubusercontent.com/83877492/149342513-5c0a9869-24be-4388-b15d-b4d3080aaa77.png)
+
+19. Total sales grouped by categories 
+
+![Screenshot (61)](https://user-images.githubusercontent.com/83877492/149342734-f5b5e365-c64e-4f68-89c2-c44d1ae3b30d.png)
