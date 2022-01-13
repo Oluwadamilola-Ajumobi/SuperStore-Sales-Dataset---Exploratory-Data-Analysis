@@ -53,3 +53,7 @@ The following code in written in Python and mainly uses Pandas and Numpy librari
 10. Calculated the total revenue and sales per month using the sales column 
 
 ![Screenshot (42)](https://user-images.githubusercontent.com/83877492/149339640-c1b97974-c631-4278-92a4-936a6d29d20a.png)
+
+11. Visual representation of sales per month and calculation of sales grouped by year
+
+![Screenshot (44)](https://user-images.githubusercontent.com/83877492/149339978-497b86a4-56c5-4530-8261-98ce828af4d6.png)
