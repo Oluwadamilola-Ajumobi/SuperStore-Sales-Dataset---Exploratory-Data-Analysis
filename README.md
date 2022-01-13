@@ -61,3 +61,11 @@ The following code in written in Python and mainly uses Pandas and Numpy librari
 12. Visualizing sales grouped by year 
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/83877492/149340200-c7577557-1c49-46ac-abbc-ee7895d25cb8.png)
+
+13. Total Sales grouped by segment
+
+![Screenshot (48)](https://user-images.githubusercontent.com/83877492/149340418-61db491d-db71-4b6a-b79f-2f86d87ef089.png)
+
+14. Total Sales grouped by top 10 cities
+
+![Screenshot (50)](https://user-images.githubusercontent.com/83877492/149340580-06045fe0-7eab-43ad-982f-f8f16b5eb7d5.png)
