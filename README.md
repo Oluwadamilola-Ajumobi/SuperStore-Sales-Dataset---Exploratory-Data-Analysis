@@ -35,7 +35,7 @@ The following code in written in Python and mainly uses Pandas and Numpy librari
 5. Dropping the unnecessary columns
  ![Screenshot (33)](https://user-images.githubusercontent.com/83877492/149338198-a1950122-88be-477d-a72b-f4eed649681e.png)
  
- 6. Checking fro null values and dropping them 
+ 6. Checking for null values and dropping them 
   ![Screenshot (35)](https://user-images.githubusercontent.com/83877492/149338448-2cf09828-f0a4-46ce-8b77-0af764aaedb9.png)
   
   7. Converting the datetime tp pandas datetime and creating the year and month column 
@@ -46,3 +46,6 @@ The following code in written in Python and mainly uses Pandas and Numpy librari
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/83877492/149339015-45d089fb-1a82-4ea6-8182-8c20fa9b19a4.png)
 
+9. Visualizing the correlation between variables using a heatmap
+
+![Screenshot (40)](https://user-images.githubusercontent.com/83877492/149339341-3e6bfa41-90cd-4c5f-878c-0a596e64dd19.png)
