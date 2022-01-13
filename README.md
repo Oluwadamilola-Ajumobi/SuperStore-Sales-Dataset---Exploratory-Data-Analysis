@@ -36,5 +36,10 @@ The following code in written in Python and mainly uses Pandas and Numpy librari
  ![Screenshot (33)](https://user-images.githubusercontent.com/83877492/149338198-a1950122-88be-477d-a72b-f4eed649681e.png)
  
  6. Checking fro null values and dropping them 
- 7. ![Screenshot (35)](https://user-images.githubusercontent.com/83877492/149338448-2cf09828-f0a4-46ce-8b77-0af764aaedb9.png)
+  ![Screenshot (35)](https://user-images.githubusercontent.com/83877492/149338448-2cf09828-f0a4-46ce-8b77-0af764aaedb9.png)
+  
+  7. Converting the datetime tp pandas datetime and creating the year and month column 
+
+![Screenshot (36)](https://user-images.githubusercontent.com/83877492/149338810-6aa41eaa-6323-4a14-9212-072e9c921a50.png)
+
 
