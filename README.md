@@ -57,3 +57,7 @@ The following code in written in Python and mainly uses Pandas and Numpy librari
 11. Visual representation of sales per month and calculation of sales grouped by year
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/83877492/149339978-497b86a4-56c5-4530-8261-98ce828af4d6.png)
+
+12. Visualizing sales grouped by year 
+
+![Screenshot (46)](https://user-images.githubusercontent.com/83877492/149340200-c7577557-1c49-46ac-abbc-ee7895d25cb8.png)
