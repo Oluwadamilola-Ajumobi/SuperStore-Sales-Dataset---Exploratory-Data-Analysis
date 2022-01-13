@@ -42,4 +42,7 @@ The following code in written in Python and mainly uses Pandas and Numpy librari
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/83877492/149338810-6aa41eaa-6323-4a14-9212-072e9c921a50.png)
 
+8. Visualizing outliers in the sales column using boxplot
+
+![Screenshot (38)](https://user-images.githubusercontent.com/83877492/149339015-45d089fb-1a82-4ea6-8182-8c20fa9b19a4.png)
 
