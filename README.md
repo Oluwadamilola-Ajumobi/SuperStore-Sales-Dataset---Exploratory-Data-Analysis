@@ -6,3 +6,8 @@ Exploratory Data Analysis process is not usually a formal or linear process with
 
 ![Gray Simple Cycle Diagram Chart](https://user-images.githubusercontent.com/83877492/149289628-16f24a10-06e0-4066-bb6e-5421eb3c605c.png)
 
+To perform EDA on a dataset, you have to 
+1. Understand the variables in the dataset
+2. Clean the data from redundancies
+3. Analyze relationship between variables
+4. 
