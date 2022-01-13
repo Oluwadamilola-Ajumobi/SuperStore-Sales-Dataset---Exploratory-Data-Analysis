@@ -69,3 +69,7 @@ The following code in written in Python and mainly uses Pandas and Numpy librari
 14. Total Sales grouped by top 10 cities
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/83877492/149340580-06045fe0-7eab-43ad-982f-f8f16b5eb7d5.png)
+
+15. Visualizing sales by top 10 cities
+
+![Screenshot (53)](https://user-images.githubusercontent.com/83877492/149341972-97185a57-079d-46c3-b669-578663c220c4.png)
